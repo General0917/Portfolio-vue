@@ -1,5 +1,10 @@
 <template>
   <div class="contact">
-    <h1>This is a contact page.</h1>
+    <div class="top container bg-light">
+      Contact Me.
+    </div>
+    <div class="bottom">
+
+    </div>
   </div>
 </template>

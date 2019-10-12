@@ -1,7 +1,8 @@
 <template>
   <div id="app">
-      <my-header></my-header>
+    <my-header/>
     <router-view/>
+    <my-footer/>
   </div>
 </template>
 
@@ -28,10 +29,14 @@
 </style>
 <script>
 import myHeader from './components/myHeader.vue';
+import myFooter from './components/myFooter.vue';
 export default {
   name: 'App',
   components: {
-    myHeader
+    myHeader,
+    myFooter
   }
 }
-</script>>
+</script>
+
+
