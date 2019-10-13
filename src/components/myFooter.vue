@@ -17,5 +17,8 @@
 <style>
 .footer {
   opacity: 0.5;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 </style>

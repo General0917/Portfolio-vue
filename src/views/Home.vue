@@ -5,12 +5,12 @@
   </div>
   <div class="bottom">
     <div class="mt-5 h4">
-      Wellcome to my portfolio page!
+      Welcome to my portfolio page!
     </div>
     <hr class="mb-5 mt-0 d-inline-block mx-auto" style="width: 27em;">
     <div class="container bg-light">
       <div class="my-3 py-3 px-2 txt border">
-        These pages are mainly written in vue.js,  bootstrap4 and fontawesome.
+        These pages are written in <a href="https://vuejs.org/"><font class="text-success font-weight-bold"><font-awesome-icon :icon="['fab','vuejs']"/>vue.js</font></a>,  <a href="https://bootstrap-vue.js.org/"><font class="font-weight-bold" color="purple"><font-awesome-icon :icon="['fab','bootstrap']"/>bootstrap4</font></a> and <a href="https://github.com/FortAwesome/vue-fontawesome"><font class="text-primary font-weight-bold"><font-awesome-icon :icon="['fab','font-awesome']"/>fontawesome</font></a>.
       </div>
       <div class="my-3 py-3 px-2 txt border">
         When I tackled to create this website, there were some difficulties.<br>
@@ -25,6 +25,9 @@
 </div>
 </template>
 <style>
+  .home {
+    padding-bottom: 6rem;
+  }
   .top {
     font-size: 70px;
     padding: 100px 0;
