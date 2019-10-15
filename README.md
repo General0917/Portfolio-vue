@@ -12,7 +12,7 @@ vue.jsのアウトプットの一環としてポートフォリオサイトを�
 - chart.js for vue.jsの導入
 - github pageへのデプロイ
 
-自分が使った具体的な解決策はQIITAの方に書いています。
+自分が使った具体的な解決策は[QIITA](https://qiita.com/shunyaendoh)の方に書いています。
 
 ### ちなみに
 
