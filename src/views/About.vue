@@ -95,7 +95,7 @@
         <div class="row my-3">
           <div class="col-4">
             <font-awesome-icon :icon="['fas','laptop-code']" class="ml-5 text-dark skill-icon"/>
-            <div class="border ml-5 mt-3 px-1 txt-skill">I'm into programming. I'm always thinking of something about it. Even if I'm free, I try to create something. However I don't think that it is studying, but just playing.</div>
+            <div class="border ml-5 mt-3 px-1 txt-skill">I'm into programming. I'm always thinking of something about it. During my free time, I try to create something new. However I don't think that it is all studying, but also having a fun.</div>
           </div>
           <div class="col-4">
             <font-awesome-icon :icon="['fas','running']" class="text-dark skill-icon"/>
@@ -103,7 +103,7 @@
           </div>
           <div class="col-4">
             <font-awesome-icon :icon="['fas','chalkboard-teacher']" class="mr-5 text-dark skill-icon"/>
-            <div class="border mr-5 mt-3 px-1 txt-skill">I like to teach programming to someone who needs help. In fact, I often teach it my friends. Teaching is not only for friends, but also for me. I can understand more deeply through teaching.</div>
+            <div class="border mr-5 mt-3 px-1 txt-skill">I like to teach programming to someone who needs help. In fact, I often teach it my friends. Teaching is not only for friends, but also for myself so that I can understand more deeply through teaching.</div>
           </div>
         </div>
       </div>
