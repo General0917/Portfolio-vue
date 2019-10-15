@@ -1,6 +1,6 @@
 <template>
 <div class="home">
-  <div class="top container bg-light">
+  <div class="top container bg-light" v-show="!isEnglish">
     Hello World.
   </div>
   <div class="bottom">
@@ -43,9 +43,23 @@
   }
 </style>
 <script>
-// @ is an alias to /src
-
+import  EventBus  from "../../libs/EventBus";
 export default {
   name: 'home',
+  data: function(){
+    return {
+      isEnglish: ''
+    }
+  },
+  methods: {
+    updateData (isEnglish) {
+      this.isEnglish = isEnglish;
+    }
+  },
+  mounted() {
+    EventBus.$on('is-english', (isEnglish) => {
+      this.updateData(isEnglish)
+    })
+  }
 }
 </script>

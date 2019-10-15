@@ -99,7 +99,7 @@
           </div>
           <div class="col-4">
             <font-awesome-icon :icon="['fas','running']" class="text-dark skill-icon"/>
-            <div class="border mx-3 mt-3 px-1 txt-skill">I have experienced to play some sports. For example, soccer, swimming, snowboard and dance. When I was a junior high school student, I was a captain and represnted Tokyo.</div>
+            <div class="border mx-3 mt-3 px-1 txt-skill">I have experienced to play some sports. For example, soccer, swimming, snowboard and dance. When I was a junior high school student, I was a captain of my soccer club and represnted Tokyo.</div>
           </div>
           <div class="col-4">
             <font-awesome-icon :icon="['fas','chalkboard-teacher']" class="mr-5 text-dark skill-icon"/>
