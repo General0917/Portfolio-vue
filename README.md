@@ -1,24 +1,22 @@
 # portfolio
 
-## Project setup
-```
-npm install
-```
+## はじめに
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+vue.jsのアウトプットの一環としてポートフォリオサイトを作ってみました。
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 苦労,工夫した点
 
-### Lints and fixes files
-```
-npm run lint
-```
+- そもそもvue.jsの理解度が低かった
+- font awesomeの導入
+- bootstrap4 for vue.jsの導入
+- chart.js for vue.jsの導入
+- github pageへのデプロイ
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+自分が使った具体的な解決策はQIITAの方に書いています。
+
+### ちなみに
+
+(こちら)[https://shunyaendoh1215.github.io/Portfolio-vue/]から実際のサイトに行けます。
+見た目は以下のような感じです。
+
+<img width="1680" alt="スクリーンショット 2019-10-15 22 21 32" src="https://user-images.githubusercontent.com/55518345/66840206-44377d00-ef9a-11e9-8906-a1f0a6018507.png">
