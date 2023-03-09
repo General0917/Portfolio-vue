@@ -12,11 +12,8 @@ vue.jsのアウトプットの一環としてポートフォリオサイトを�
 - chart.js for vue.jsの導入
 - github pageへのデプロイ
 
-自分が使った具体的な解決策は[QIITA](https://qiita.com/shunyaendoh)の方に書いています。
-
 ### ちなみに
 
-[こちら](https://shunyaendoh1215.github.io/Portfolio-vue/)から実際のサイトに行けます。
 見た目は以下のような感じです。
 
 <img width="1680" alt="スクリーンショット 2019-10-15 22 21 32" src="https://user-images.githubusercontent.com/55518345/66840206-44377d00-ef9a-11e9-8906-a1f0a6018507.png">
